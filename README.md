@@ -5,7 +5,8 @@
 * The average June temperature is 74.9°F and the average December temperature is 71.04°F, the difference in average temperature between both months is around 3.9 °F. 
 * The difference in high temperature is 2°F. The maxium temperature is 85°F in June and 83°F in December.
 * The difference in the low temperature is 8°F. The minimum of the low temperature is 64°F in June and 56°F in December.
-
+![June_Temps_fig](https://github.com/violetqq0221/SurfsUp_Challenge_Challenge9/blob/main/June_Temps.PNG)
+![Dec_Temps_fig](https://github.com/violetqq0221/SurfsUp_Challenge_Challenge9/blob/main/December_Temps.PNG)
 ## Summary: 
  * Comparasion of the June and December data: the average of summer (June) and winter (December) temperature difference is only 4°F. In general, it should be no problem for the proposal of opening a surf and icecream shop all year around. 
  To provide a further in-depth analysis, I would like to analyze the temperature for each station. This further analysis can narrow down the optimal locations for new stores.
